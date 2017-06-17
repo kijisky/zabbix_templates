@@ -2,4 +2,5 @@
 
 some teplates for zabbix monitoring softwae
 
-* ibm storwize v3700 data storage system
+* storwize_v3700 = ibm storwize v3700 data storage system
+* snmp-macaddress-table - SNMP MAC-Address - interface table template
